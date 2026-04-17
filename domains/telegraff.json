@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "nikswant-hub",
+    "email": "nikkswant@ya.ru"
+  },
+  "description": "Telegraf messenger — secure messaging app",
+  "repo": "https://github.com/nikswant-hub/telegraf",
+  "records": {
+    "A": ["0.0.0.0"],
+    "TXT": "Telegraf messenger server"
+  }
+}
